@@ -7,3 +7,6 @@ def calc(a, b):
 
     mul = a * b
     print(mul)
+
+    div = a / b
+    print(div)
