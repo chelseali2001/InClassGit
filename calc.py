@@ -4,3 +4,6 @@ def calc(a, b):
 
     sub = a - b
     print(sub)
+
+    mul = a * b
+    print(mul)
