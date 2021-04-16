@@ -4,5 +4,3 @@ def divisors(a):
             print(x, " ", end='')
 
     print()
-
-divisors(10)
