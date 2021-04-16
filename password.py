@@ -1,3 +1,9 @@
+from random import randint
+
 def password(n):
     for x in range(n): 
-        print(char(randint(33, 126)))
+        print(chr(randint(33, 126)), end='')
+    
+    print()
+
+password(3)
