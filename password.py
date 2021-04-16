@@ -5,5 +5,3 @@ def password(n):
         print(chr(randint(33, 126)), end='')
     
     print()
-
-password(3)
